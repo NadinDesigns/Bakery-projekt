@@ -12,4 +12,4 @@ The page is fully adapted for different screen sizes.
 - Built using HTML & CSS  
 
 ## 🔗 Live Demo:  
-[🔗 View on GitHub Pages](https://your-github-username.github.io/your-repo-name/)
+[🔗 View on GitHub Pages] https://nadindesigns.github.io/Bakery-projekt/
